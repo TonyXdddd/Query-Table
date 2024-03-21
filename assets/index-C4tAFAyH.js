@@ -114,7 +114,7 @@ Error generating stack: `+i.message+`
     display: flex;
     justify-content: center;
     align-items: center;
-  `;return L.jsx(t,{children:e})},KT=()=>L.jsx(Xg,{children:L.jsx(VT,{})}),qT="/%7BQuery-Table%7D/assets/back-arrow-Cmqq_rYz.png",GT=rn(vE)`
+  `;return L.jsx(t,{children:e})},KT=()=>L.jsx(Xg,{children:L.jsx(VT,{})}),qT="/Query-Table/assets/back-arrow-Cmqq_rYz.png",GT=rn(vE)`
   width: 300px;
   height: 500px;
   display: flex;
